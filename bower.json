@@ -1,6 +1,6 @@
 {
   "name": "uiowaFormCreator",
-  "version": "1.0.0",
+  "description": "Created at the Univserity of Iowa, this is a interface for the creation of angular-schema-form questionnaires",
   "authors": [
     "cbhudson <cassio-hudson@uiowa.edu>"
   ],
@@ -28,14 +28,18 @@
     "angular-resource": "~1.4.0",
     "angular": "~1.4.1",
     "angular-schema-form": "~0.8.12"
-  },"main": [
-      "js/uiowaFormCreator.js"
-  ],"keywords":[
-      "form",
-      "schema",
-      "questionnaire"
-      "uiowa",
-      "icts"
-   ]
-
+  },
+  "main": [
+    "js/uiowaFormCreator.js"
+  ],
+  "keywords": [
+    "form",
+    "schema",
+    "questionnaire",
+    "uiowa",
+    "icts"
+  ],
+  "private": true,
+  "moduleType": [],
+  "homepage": ""
 }
