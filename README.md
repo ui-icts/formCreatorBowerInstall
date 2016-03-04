@@ -12,8 +12,7 @@ Install Guide Found Below
 https://www.icts.uiowa.edu/confluence/display/IA/Adding+Angular+Schema+Form+Project+to+Your+Java+Project
 
 # Javascript resources
-
-<!-- uiowa form creator-->
+<code>
 <script src="bower_components/resources/angular/angular.js" />"></script>
 <script src="bower_components/angular-resource/angular-resource.js" />"></script>
 <script src="bower_components/angular-sanitize/angular-sanitize.min.js" />"></script>
@@ -25,5 +24,6 @@ https://www.icts.uiowa.edu/confluence/display/IA/Adding+Angular+Schema+Form+Proj
 <script src="bower_components/angular-strap/dist/angular-strap.tpl.min.js" />"></script>
 <script src="bower_components/schema-form-datetimepicker/schema-form-date-time-picker.min.js" />"></script>
 <script src="bower_components/uiowaFormCreator/js/uiowaFormCreator.js" />"></script>
-<!--  End Uiowa form creator -->
+</code>
+
 
