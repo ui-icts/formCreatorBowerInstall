@@ -39,7 +39,7 @@
     "uiowa",
     "icts"
   ],
-  "private": true,
+  "private": false,
   "moduleType": [],
   "homepage": ""
 }
